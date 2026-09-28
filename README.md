@@ -2,7 +2,7 @@
 
 Yeva
 
-they/them/their (or any)
+they/them/their
 
 enby aroace-spec
 
@@ -17,6 +17,8 @@ age-unverified
 breathing paradox
 
 competitive shitcoder
+
+diversity hire at [V](https://vlang.io/)
 
 [website](https://divio.city/)
 
@@ -42,11 +44,6 @@ an inline telegram bot for role-play actions
 
 ![dumbrpbot](https://divio.city/projects/dumbrpbot.png)
 
+[other](https://git.divio.city/me?tab=repositories)
 
-## [dvtoys](https://divio.city/projects/dvtoys/)
-
-a utility that does miscellaneous {processing,transforming} of text input
-
-![dvtoys](https://divio.city/projects/dvtoys.png)
-
-more in development
+more always in development :3
